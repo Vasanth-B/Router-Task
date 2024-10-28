@@ -8,7 +8,7 @@ Here's a revised version of the documentation for the "BOWIES II - React Shoppin
 
 **BOWIES II** is a streamlined e-commerce app built with React, offering users a seamless shopping experience. Using the Fake Store API, the app dynamically displays products, enabling users to view details, add items to their cart, adjust quantities, and proceed to checkout with real-time price calculations and a 10% discount on the cart total. This project features a responsive design, ensuring a smooth experience on both desktop and mobile devices.
 
-### Live Demo: [View Here](#)
+### Live Demo: [View Here](https://router-app-react-task.netlify.app/)
 
 ---
 
